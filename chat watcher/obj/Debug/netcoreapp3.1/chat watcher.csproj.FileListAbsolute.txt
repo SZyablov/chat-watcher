@@ -1,0 +1,30 @@
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\chat watcher.exe
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\chat watcher.deps.json
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\chat watcher.runtimeconfig.json
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\chat watcher.runtimeconfig.dev.json
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\chat watcher.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\chat watcher.pdb
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Discord.Addons.Interactive.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.csprojAssemblyReference.cache
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.AssemblyInfoInputs.cache
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.AssemblyInfo.cs
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.csproj.CoreCompileInputs.cache
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.csproj.CopyComplete
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.pdb
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\obj\Debug\netcoreapp3.1\chat watcher.genruntimeconfig.cache
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Klabisot\source\repos\chat watcher\chat watcher\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
